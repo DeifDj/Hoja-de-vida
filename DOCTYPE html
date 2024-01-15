@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Hoja de Vida</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+    <header>
+        <img src="F:\SEMILLERO BANCO DE BOGOTA\ANGULAR\Foto" alt="Tu Nombre" width="150">
+        <h1>Tu Nombre</h1>
+        <p>Desarrollador de Software</p>
+    </header>
+
+    <!-- Resto del contenido... -->
+
+</body>
+</html>

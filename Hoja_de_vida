@@ -1,0 +1,131 @@
+<link rel="stylesheet" href="styles.css">
+<body>
+
+    <header>
+        <h1>Deivid Steven Farfan Cruz</h1>
+
+        <p>Tecnólogo en Gestión Empresarial con experiencias en procesos
+            administrativos y logísticos, para empresas del sector
+            Telecomunicaciones con capacidad de orientación, instalación y
+            servicio posterior a servicios de redes.
+            Entre mis habilidades a destacar, ejecuto mis labores con
+            puntualidad, respeto, responsabilidad y dinamismo, logrando
+            atender las necesidades de las organizaciones bajo orientación al
+            resultado, trabajo en equipo y adaptabilidad al cambio para
+            superar la expectativa del cliente.
+            </p>
+    </header>
+
+    <section>
+        <h2>Experiencia Laboral</h2>
+        <ul>
+            <li>Analista de Operaciones | Euronel S.A.S.
+                Duración: octubre de 2022 a julio de 2023 (9 meses)
+                Jefe inmediato: Julián Ruiz
+                Contacto: (571) 312 3372392
+                Funciones y Logros:
+                • Seguimiento a puntos de venta retail Claro Colombia.
+                • Revisión y supervisión de inventarios.
+                • Uso de herramientas ofimáticas para la presentación de
+                informes en cifras (manejo de Excel)
+                • Diligenciamiento y seguimiento a formatos de viajes a nivel
+                nacional.
+                • Coordinación y supervisión del traslado y entrega de
+                telefonía.
+                • Manejo de personal.</li>
+
+            <li>Aprendiz SENA | Euronel S.A.S.
+                Duración: abril de 2022 a octubre de 2022 (6 meses)
+                Jefe inmediato: Rosa roldan
+                Contacto: (571)3212918795
+                • Atención al cliente corporativo
+                • Apoyo en el desarrollo de proyectos para Claro Colombia.
+                • Apoyo en inventarios.
+                Cl 128B # 91B – 72
+                Bogotá, Colombia
+                313 399 0396
+                Clikball@gmail.com
+                 linkedin.com/in/deividfarfan-2147b0167
+                https://wa.me/message/VEQJZ
+                EUKBJLPL1
+                
+                • Optimización de información a través de herramientas
+                ofimáticas y colaborativas.</li>
+
+            <li>Asesor Comercial | Hero Motocorp Limited
+                Duración: octubre de 2021 a enero de 2022 (3 meses)
+                Jefe inmediato: Daniela Barrueto
+                Contacto: (571) 320 4598571
+                Funciones y Logros:
+                • Atención al cliente por omnicanalidad: presencial y redes
+                sociales.
+                • Gestión de ventas en el sector automotriz
+                • Manejo de inventarios.
+                • Evaluación de perfil financiero de interesados en producto
+                automotriz bajo financiamiento.
+                </li>
+
+            <li>Operario en Punto de Servicio | Servientrega S.A.
+                Duración: marzo a septiembre de 2018 (7 meses)
+                Jefe inmediato: Germán Chávez
+                Contacto: (571) 3124827522
+                Funciones y Logros:
+                • Facturación y manejo de caja menor
+                • Gestión documental y correspondencia
+                • Despacho de mercancía y expedición de guía de rastreo
+                • Atención al Cliente
+                </li>
+            <!-- Agrega más elementos según sea necesario -->
+        </ul>
+    </section>
+
+    <section>
+        <h2>Educación</h2>
+        <ul>
+            <li>Tecnólogo en Gestión Empresarial | Servicio Nacional de
+                Aprendizaje – SENA
+                Bogotá – Colombia
+                Titulado en 2022
+            </li>
+            <li>Bachiller Académico | Colegio Tecnisistemas
+                Bogotá - Colombia
+                Titulado en 2012
+            </li>
+        <h3>Formación Complementaria</h3>
+        <ul>
+            <li>• Manejo y administración de datos con herramientas de
+                Microsoft Office Access. (certificado 2012)
+                • Curso especial en Bioseguridad. (certificado 2020)
+                • Soporte técnico para mantenimiento de equipos de
+                cómputo. (certificado 2020)
+                • Curso introductorio a la formación profesional integral,
+                (certificado 2020)
+                • Curso especial en neuro ventas, (certificado 2020)
+                • atención al cliente en los procesos administrativos,
+                (certificado 2022)
+                • instalación de la red de distribución de fibra óptica,
+                (certificado 2021)
+                • Excel intermedio avanzado ( certificado 2023).
+            </li>
+            </ul>
+            <h3>Competencias Laborales</h3>
+            <ul>
+                <li>• Orientación a resultados
+                    • Trabajo en equipo
+                    • Liderazgo
+                    • Compromiso
+                    • Escucha activa
+                    • Soporte, mantenimiento y ensamblaje de equipos de
+                    cómputo.
+                    • Instalaciones eléctricas monofásicas para redes
+                    domésticas.
+                </li>
+            </ul>
+            <!-- Agrega más elementos según sea necesario -->
+        </ul>
+    </section>
+
+    <!-- Puedes agregar más secciones como Habilidades, Proyectos, etc. -->
+
+</body>
+</html>
