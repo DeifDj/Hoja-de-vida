@@ -118,7 +118,7 @@
                 • Excel intermedio avanzado ( certificado 2023).
             </li>
             </ul>
-            <h3>Competencias Laborales</h3>
+            <h3>Habilidades</h3>
             <ul>
                 <li>• Orientación a resultados
                     • Trabajo en equipo
@@ -131,14 +131,26 @@
                     domésticas.
                 </li>
             </ul>
+            <button id="addSkill">Añadir Habilidad</button>
             <!-- Agrega más elementos según sea necesario -->
         </ul>
         <ul id="skillsList">
             <!-- Lista de habilidades se añadirá aquí -->
         </ul>
-
-        <button id="addSkill">Añadir Habilidad</button>
-        <button id="contact">Contactar</button>
+        <button id="contactButton">Contactar</button>
     </div>
+    <section>
+        <h3>Certificaciones</h3>
+        <ul id="listaCertificaciones"></ul>
+        <button id="addCertificateButton" onclick="agregarCertificado()">Agregar Certificado</button>
+    </section>
 </body>
+<script src="script.js"></script>
 </html>
+<script>
+    const calificarHojaDeVida = () => {
+      let calificacion = prompt("Del 1 al 10, ¿cómo calificarías mi hoja de vida?");
+      alert(`¡Gracias por calificar con un ${calificacion}!`);
+    }
+  </script>
+  <button onclick="calificarHojaDeVida()">Calificar Hoja de Vida</button>

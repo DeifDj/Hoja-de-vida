@@ -1,3 +1,5 @@
+
+
 body {
     font-family: 'Lato', sans-serif;
     margin: 0;
@@ -8,7 +10,7 @@ body {
 
 .container {
     max-width: 800px;
-    margin: 0 auto;
+    margin: 50px auto; /* Agregado un espacio superior e inferior para centrar mejor */
     padding: 20px;
     background-color: white;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -68,6 +70,8 @@ button {
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    display: block;
+    margin: 0 auto; /* Centrado */
 }
 
 button:hover {
@@ -103,8 +107,21 @@ input[type="submit"] {
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    display: block;
+    margin: 0 auto; /* Centrado */
 }
 
 input[type="submit"]:hover {
     background-color: #0055a4;
 }
+button, a {
+    background-color: #0077cc;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  button:hover, a:hover {
+    background-color: #0055a4;
+  }
